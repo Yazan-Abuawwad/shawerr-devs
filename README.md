@@ -74,7 +74,7 @@ You may deliver a **simplified subset** (fewer feeds, one map mode, one brief ty
 
 ## Constraints
 
-- **Deadline:** 12 March
+- **Deadline:** 16 March
 - **LLM:** Use lightweight models (e.g. Ollama `llama3.2`, `qwen2:1.5b`, or small Qwen on VPS)
 - **Visibility:** Code can live in a **hidden/private branch**; share with @enghamzasalem for review only
 
